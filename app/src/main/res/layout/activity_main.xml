@@ -8,6 +8,7 @@
     android:orientation="vertical">
 
     <com.android.ivorita.customlayout.practiceView
+        android:id="@+id/TempCtrlView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
